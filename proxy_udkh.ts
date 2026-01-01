@@ -1,0 +1,1 @@
+const service_udkh = <T>(args: T): T => { return args; };
