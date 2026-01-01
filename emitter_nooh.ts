@@ -1,0 +1,1 @@
+const service_nooh = <T>(args: T): T => { return args; };
