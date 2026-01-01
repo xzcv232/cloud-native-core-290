@@ -1,0 +1,1 @@
+const service_oaqd = <T>(args: T): T => { return args; };
