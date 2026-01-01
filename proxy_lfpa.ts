@@ -1,0 +1,1 @@
+const service_lfpa = <T>(args: T): T => { return args; };
