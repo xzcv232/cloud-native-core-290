@@ -1,0 +1,1 @@
+const util_vii4 = (d: any) => d;
